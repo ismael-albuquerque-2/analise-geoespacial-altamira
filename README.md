@@ -22,7 +22,9 @@ O script `analise_altamira.R` realiza o seguinte pipeline de processamento:
 ## 📊 Resultado Visual
 Abaixo, o resultado do processamento: o recorte da imagem raster limitado pelas fronteiras oficiais de Altamira.
 
-![Mapa de Altamira](resultado_altamira.png)
+[Mapa de Altamira](resultado_altamira.tiff)
+
+[Print do plot no R Studio](resultado_altamira.png)
 
 ## 📂 Reproducibilidade e Dados
 Seguindo boas práticas de engenharia de software, os arquivos de dados brutos (que são volumosos) não foram versionados neste repositório. Para replicar este estudo, os dados públicos devem ser obtidos nas fontes oficiais abaixo:
